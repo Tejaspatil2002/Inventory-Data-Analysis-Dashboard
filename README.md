@@ -23,12 +23,11 @@ pip install -r requirements.txt
 #### Ensure MySQL server is installed and running.
 #### Create a new database called insightengine in MySQL.
 #### Update the Data_Cleaning.ipynb file with MySQL username and password to connect to the database.
-## 5. Organize the cleaned datasets into six structured tables:
-#### begfinal_cleaned
+## 5. Organize the cleaned datasets into five structured tables:
 #### invoicepurchase_cleaned
 #### purchase2017_cleaned
 #### purchasefinal_cleaned
-#### endfinal_cleaned
+#### merged_beg_end_final
 #### salesfinal_cleaned
 ## 6.  Load Data Into SQL Database
 #### Create a SQL database.
