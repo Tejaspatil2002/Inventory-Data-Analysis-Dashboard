@@ -1,5 +1,5 @@
 # B42_DA_008_Insight_Engine
-![image](https://github.com/user-attachments/assets/6d1453c5-8577-44cd-a083-49072ea8c827)
+
 
 
 # 📊WELCOME TO INVENTORY ANALYSIS PROJECT📊
