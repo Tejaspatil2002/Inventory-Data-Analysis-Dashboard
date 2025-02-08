@@ -3,8 +3,7 @@
 
 
 # 📊WELCOME TO INVENTORY ANALYSIS PROJECT📊
-
-https://github.com/SayantiSaha014/B42_DA_008_Insight_Engine/blob/main/Inventory%20Analysis%20(1).png
+![image](https://github.com/user-attachments/assets/5bcbdb59-04df-43a4-9164-87dbc360b400)
 
 Inventory analysis is the process of examining data related to stock and inventory to improve how products are managed and stored. This helps businesses ensure that they have the right amount of stock at the right time, avoiding both excess and shortages. By analyzing important metrics like stock levels (how much of each product is in stock), inventory turnover (how quickly items are sold or used), and reorder points (when new stock needs to be ordered), businesses can make smart decisions that save money, reduce waste, and keep customers happy by preventing stockouts or overstocking.
 
