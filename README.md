@@ -97,6 +97,7 @@ pip install -r requirements.txt
 
 ## 🗂 Dataset
 Here we can access the datasets used in the project.
+[Raw datsets](https://drive.google.com/drive/folders/1lut-YtewZjWvfMwLUPT1kPxtDixPTm8g?usp=sharing)
 [Inventory Analysis Datasets](https://drive.google.com/drive/folders/1QOD490UEyEE-gAEcrLLYeGnJI55iEifk?usp=sharing)
 
 ---
