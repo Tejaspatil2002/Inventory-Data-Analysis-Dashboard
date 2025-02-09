@@ -104,7 +104,7 @@ Here we can access the datasets used in the project.
 ## 📋 Authors
 👷Contributors :
 - Tejas Patil
-- sayanti Saha
-- Tanmay Thriphati
+- Sayanti Saha
+- Tanmay Tripathi
 
 Thank you for exploring!
